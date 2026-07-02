@@ -1,0 +1,17 @@
+{
+    "name": "SignTrainer.Progress",
+    "rootNamespace": "SignTrainer.Progress",
+    "references": [
+        "SignTrainer.Core",
+        "SignTrainer.Data"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb6f65e1294ac5a4097135e1831040a3, type: 3}
+  m_Name: SCN_Help
+  m_EditorClassIdentifier: 
+  scenarioId: SCN_Help
+  displayName: Help
+  goalText: Asking for help then replying positively
+  environmentSceneName: Scenario_Help
+  steps:
+  - type: 0
+    requiredSigns:
+    - {fileID: 11400000, guid: 086638f95d602414aa3d3790b2d788ed, type: 2}
+    hintText: Be polite first
+    awaitSeconds: 0
+  - type: 0
+    requiredSigns:
+    - {fileID: 11400000, guid: 4ece89d2724af594aa6ceed285c2de89, type: 2}
+    hintText: Ask for help
+    awaitSeconds: 0
+  - type: 0
+    requiredSigns:
+    - {fileID: 11400000, guid: 34de07eb793fc1a4ba5a9fb775c3a98a, type: 2}
+    hintText: Respond that things are good.
+    awaitSeconds: 0
+  isMvp: 1

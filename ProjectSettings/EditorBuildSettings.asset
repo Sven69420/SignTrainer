@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/core.unity
+    guid: 44cea0a0cd5f3594badc03b01ad10bd8
+  - enabled: 1
+    path: Assets/Scenes/Boot.unity
+    guid: 1c5323f28d9004440a1f1c0466c48edd
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: 29416b1a247e44246beee3b003d74d23
+  - enabled: 1
+    path: Assets/Scenes/Scenario_Street.unity
+    guid: 3097d9385136704478b1b2804aedf76d
+  - enabled: 1
+    path: Assets/Scenes/Scenario_Library.unity
+    guid: 82954819b6786374a868fcbd13da6c88
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 5a845d761db912741b70a2d0a1b723a1
+  - enabled: 1
+    path: Assets/Scenes/Scenario_Greeting.unity
+    guid: 2f0b2cb88283b82458ade2740551fcc3
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/PracticeQuiz.unity
+    guid: 9e0aff3bfb3275545b29d39516ee023a
+  - enabled: 1
+    path: Assets/Scenes/Practice.unity
+    guid: ffef7dab63c29694ca84cc0f77ac0e13
+  - enabled: 1
+    path: Assets/Scenes/Scenario_Help.unity
+    guid: a66c7f283b2c34647a8479e79ffa7e83
+  - enabled: 1
+    path: Assets/Scenes/PracticeQuizLetters.unity
+    guid: 59992795220781d48ada080c47d0c970
+  - enabled: 1
+    path: Assets/Scenes/PracticeLetters.unity
+    guid: 9b9b4cd9f3dc08d47acd4a3a52f301be
+  - enabled: 1
+    path: Assets/Scenes/PracticeName.unity
+    guid: 1bf07c65061a25045b12306770192a91
+  - enabled: 1
+    path: Assets/Scenes/Scenario_Store.unity
+    guid: dcc89bd5f9f0d6249b6ae488b6f91ec3
+  m_configObjects:
+    Unity.XR.OpenVR.Settings: {fileID: 11400000, guid: b18fd35c27fd5d74ba22bf94c7b0c795, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: d39f7e471e067604c9abe9646b861def, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 11c0e0ce9743aae4f8818fb982fb48d4, type: 2}

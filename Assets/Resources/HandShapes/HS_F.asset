@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8963b8ca03fab50bb3f2135769b1cbd5, type: 3}
+  m_Name: HS_F
+  m_EditorClassIdentifier: 
+  label: F
+  thumb: 0
+  index: 0
+  middle: 1
+  ring: 1
+  pinky: 1
+  tolerance: 0.3

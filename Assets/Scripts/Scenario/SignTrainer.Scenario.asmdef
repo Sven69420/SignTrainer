@@ -1,0 +1,21 @@
+{
+    "name": "SignTrainer.Scenario",
+    "rootNamespace": "SignTrainer.Scenario",
+    "references": [
+        "SignTrainer.Core",
+        "SignTrainer.Data",
+        "SignTrainer.UI",
+        "SignTrainer.XR",
+        "SignTrainer.Tutorial",
+        "Unity.TextMeshPro"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

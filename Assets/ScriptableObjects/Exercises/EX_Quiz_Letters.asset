@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ebe485b256b1ee4687e8fe86f77a960, type: 3}
+  m_Name: EX_Quiz_Letters
+  m_EditorClassIdentifier: 
+  exerciseId: EX_Quiz_Letters
+  type: 2
+  signPool:
+  - {fileID: 11400000, guid: 6609914bfdf538247a8286be2fdd510b, type: 2}
+  - {fileID: 11400000, guid: fffd8a9e6cd32764bb2a81e1f2e419a7, type: 2}
+  - {fileID: 11400000, guid: b01fb2037393bb448a098c46529406fc, type: 2}
+  - {fileID: 11400000, guid: ea0428979c155c24ea0d3d372f17f30a, type: 2}
+  - {fileID: 11400000, guid: 4b22f7c60dc02b049b9d8ab8b2a72383, type: 2}
+  - {fileID: 11400000, guid: 45957a4166ee13246a22d57223d99b10, type: 2}
+  - {fileID: 11400000, guid: 202c47e3bf94fdf46814bc7ff923a7fc, type: 2}
+  - {fileID: 11400000, guid: 960252acc69461e42ab43f72154355f7, type: 2}
+  - {fileID: 11400000, guid: 36f95217f79b41d438de3947b4532a60, type: 2}
+  - {fileID: 11400000, guid: 86cda49ad7b124e44ba24a7a0d6723e9, type: 2}
+  - {fileID: 11400000, guid: d4cad75d43c47ca4384387729d44b044, type: 2}
+  - {fileID: 11400000, guid: 2f8b4fc8083b8e7479ae24dee49e4ca6, type: 2}
+  - {fileID: 11400000, guid: a4ff207b606369147af11717d3beac02, type: 2}
+  - {fileID: 11400000, guid: 0e5b22db4a84c38438c48ead618ababc, type: 2}
+  - {fileID: 11400000, guid: f551a10e409da1145a1df8ea04fa19c6, type: 2}
+  - {fileID: 11400000, guid: 9a9fcb7544ae43e41bd5155144df4721, type: 2}
+  - {fileID: 11400000, guid: a3dc44b1e06456b4b8527cffd64fa243, type: 2}
+  - {fileID: 11400000, guid: 5ca79f76b869e9c4cae0b1cc4c57c522, type: 2}
+  - {fileID: 11400000, guid: 529134ac65d406a4390c632844033962, type: 2}
+  - {fileID: 11400000, guid: d56a155f661f64e4595d94b6cb1683ed, type: 2}
+  - {fileID: 11400000, guid: 5b4b5a9a72bc4b34fbeee8a82841a0ff, type: 2}
+  - {fileID: 11400000, guid: 03117fd6ea9000e49b390ba83e18961e, type: 2}
+  - {fileID: 11400000, guid: d1a7cc66034b2e24a8fb14463bd57b9d, type: 2}
+  - {fileID: 11400000, guid: 514cbce6360a6cd47a078e88d1e36d55, type: 2}
+  - {fileID: 11400000, guid: 80df38a3ddde19f428f9aa1cd101840a, type: 2}
+  - {fileID: 11400000, guid: dfd504378c0e80e40934506490e4f240, type: 2}
+  questionCount: 4

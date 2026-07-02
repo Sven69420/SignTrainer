@@ -1,0 +1,20 @@
+{
+    "name": "SignTrainer.Practice",
+    "rootNamespace": "SignTrainer.Practice",
+    "references": [
+        "SignTrainer.Core",
+        "SignTrainer.Data",
+        "SignTrainer.UI",
+        "SignTrainer.XR",
+        "Unity.TextMeshPro"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

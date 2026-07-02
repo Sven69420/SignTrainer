@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ebe485b256b1ee4687e8fe86f77a960, type: 3}
+  m_Name: EX_Practice_Intro
+  m_EditorClassIdentifier: 
+  exerciseId: EX_Practice_Intro
+  type: 0
+  signPool:
+  - {fileID: 11400000, guid: 8a40c5f5427f2fc4aa30c858d22bf056, type: 2}
+  - {fileID: 11400000, guid: 3f39f59b93396604e9b626e9708dcff8, type: 2}
+  - {fileID: 11400000, guid: 086638f95d602414aa3d3790b2d788ed, type: 2}
+  - {fileID: 11400000, guid: 27602d66422ce3c409d6541d7551c0a4, type: 2}
+  questionCount: 4
